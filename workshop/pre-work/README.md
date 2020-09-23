@@ -1,6 +1,6 @@
 # Overview
 
-In order to run this instructions you need an [IBM Cloud Lite Account](https://cloud.ibm.com/registration). 
+In order to run these instructions you need an [IBM Cloud Lite Account](https://cloud.ibm.com/registration). 
 
 We will use the following IBM Cloud Services in this instruction:
 
