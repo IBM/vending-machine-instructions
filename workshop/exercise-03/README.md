@@ -1,6 +1,6 @@
 # Step 3: Run the chat-bot and get your code for the vending-machine
 
-### Step 1: Click `Preview link``
+### Step 1: Click `Preview link`
 
 ### Step 2: Open `Try it out and share the link``
 

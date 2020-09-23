@@ -10,7 +10,7 @@
 
 ### Step 4: Press create
 
-### Step 5: Press `Launch Watson Assistant
+### Step 5: Press `Launch Watson Assistant`
 
 ### Step 6: Select `Assistants`
 

@@ -6,7 +6,7 @@ We will use the following IBM Cloud Services in this instruction:
 
 * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 
-You need to download a **dialog-skill.json** file to your local computer and upload ths file to **Watson Assistant**.
+You need to download a **dialog-skill.json** file to your local computer and upload this file to your **Watson Assistant** instance.
 
 
 
