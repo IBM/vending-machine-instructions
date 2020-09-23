@@ -2,7 +2,7 @@
 
 In order to run these instructions you need an [IBM Cloud Lite Account](https://cloud.ibm.com/registration). 
 
-We will use the following IBM Cloud Services in this instruction:
+We will use the following IBM Cloud Services:
 
 * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 
