@@ -24,7 +24,7 @@ After you complete this instruction, you'll understand the following topics:
 
 ### Agenda
 
-These are the sections of this workshop, go through all of them in sequence, start with `Pre-work` :
+These are the sections of the instructions, go through all of them in sequence, start with `Pre-work` :
 
  1. [Pre-work](pre-work/README.md) 
  2. [Create a Watson Assistant Service instance on IBM Cloud](exercise-01/README.md) 
