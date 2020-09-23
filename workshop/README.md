@@ -1,30 +1,18 @@
 ## Instructions: Get your code for the vending machine!
 
-This workshop demonstrates how to build a Microservice with Java and how to deploy it to Kubernetes on the IBM Cloud. The Microservice in this workshop is kept as simple as possible, so that it can be used as a starting point for other Microservices. The Microservice has been developed with Java EE and [Eclipse MicroProfile](https://microprofile.io/).
-
-* > Useful playlist on YouTube related this workshop: [Build and deploy a microservice to Kubernetes](https://ibm.biz/BdzVRY)
-
-### What's a Microservice?
-
-There are small variations of microservice definitions out there, here is one definition of [Gartner](https://www.gartner.com/en/information-technology/glossary/microservice):
-
-* > A microservice is a service-oriented application component that is tightly scoped, strongly encapsulated, loosely coupled, independently deployable and independently scalable.
-
-* > [More additional information related to microservices, provided by IBM.](https://www.ibm.com/cloud/learn/microservices)
+This instructions do demonstrates how ...
 
 ### Architecture
 
-In the gif below you see the Authors Microservice, which we will run locally in a Docker container.
-We will deploy this Authors Microservice to Kubernetes on IBM Cloud. 
-The gif shows the steps of exercise 3 how we deploy that Microservice to IBM Cloud.
+We use IBM Watson Assistant and an external API to get the access code for the vending machine, as show in the image below.
 
-![](../../images/lab-4-overview.gif)
+![]()
 
 ### Estimated time and level
 
 |  Time | Level  |
 | - | - |
-| 10 min | beginners |
+| 10 - 15 min | beginners |
 
 ### Objectives
 
