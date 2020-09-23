@@ -14,6 +14,6 @@
 
 ### Step 6: Drag and drop the file `skill-developer-vending-machine-actual-version.json` for the import
 
-### Step 7: Press `Import
+### Step 7: Press `Import`
 
 ---
