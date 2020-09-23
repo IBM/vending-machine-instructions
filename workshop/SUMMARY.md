@@ -9,11 +9,11 @@
 * [Overview](pre-work/README.md)
 * [Register for IBM Cloud](pre-work/1-REGISTER.md)
 
-### Exercises
+### Steps
 
-* [Exercise 1: Create a Watson Assistant instance on IBM Cloud](exercise-01/README.md)
-* [Exercise 2: Import the Dialog skill](exercise-02/README.md)
-* [Exercise 3: Run the Chat-Bot](exercise-03/README.md)
+* [Step 1: Create a Watson Assistant Service instance on IBM Cloud](exercise-01/README.md)
+* [Step 2: Import a dialog-skill](exercise-02/README.md)
+* [Step 3: Run the chat-bot and get your code for the vending-machine](exercise-03/README.md)
 
 ### Additional Resources
 
