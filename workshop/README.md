@@ -33,13 +33,9 @@ These are the sections of the instructions, go through all of them in sequence, 
 
 ### Compatibility
 
-This workshop has been tested on the following platforms:
+These insturctions have been tested on the following platforms:
 
 * **IBM Watson Assistant Service Lite**
-
-### Technology Used
-
-* [IBM Cloud](https://en.wikipedia.org/wiki/Microservices)
 
 ### Credits
 
