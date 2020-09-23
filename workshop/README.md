@@ -16,11 +16,11 @@ We use IBM Watson Assistant and an external API to get the access code for the v
 
 ### Objectives
 
-After you complete this instructions, you'll understand the following topics:
+After you complete this instruction, you'll understand the following topics:
 
 * Create an instance of IBM Watson Assistant on IBM Cloud. 
 * Add a customized dialog skill to IBM Watson Assistant
-* Use of the basic integration to an external API to get your access-code for the vending machine.
+* Use a chat-bot to get your access-code for the vending machine.
 
 ### Agenda
 
