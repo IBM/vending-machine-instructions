@@ -33,7 +33,7 @@ These are the sections of the instructions, go through all of them in sequence, 
  1. [Pre-work](pre-work/README.md) 
  2. [Create a Watson Assistant Service instance on IBM Cloud](exercise-01/README.md) 
  3. [Import a dialog-skill](exercise-02/README.md) 
- 4. [Run the chat-bot and get your code for the vending-machine](exercise-03/README.md) 
+ 4. [Run the chatbot and get your code for the vending-machine](exercise-03/README.md) 
 
 ### Compatibility
 
@@ -43,7 +43,7 @@ These insturctions have been tested on the following platforms:
 
 ### Credits
 
-* [Herwig Diessner]()
+* [Herwig Diessner](https://de.linkedin.com/in/herwig-diessner-24a8993)
 * [Thomas Südbröcker](https://twitter.com/tsuedbroecker)
 
 

@@ -13,7 +13,7 @@
 
 * [Step 1: Create a Watson Assistant Service instance on IBM Cloud](exercise-01/README.md)
 * [Step 2: Import a dialog-skill](exercise-02/README.md)
-* [Step 3: Run the chat-bot and get your code for the vending-machine](exercise-03/README.md)
+* [Step 3: Run the chatbot and get your code for the vending-machine](exercise-03/README.md)
 
 ### Additional Resources
 
