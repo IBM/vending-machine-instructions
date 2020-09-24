@@ -17,5 +17,11 @@
 
 ### Additional Resources
 
-* [IBM Developer]()
+* ![IBM Developer](https://developer.ibm.com/)
+* ![IBM Developer AI](https://developer.ibm.com/technologies/artificial-intelligence/)
+* ![IBM Developer Analytics](https://developer.ibm.com/technologies/analytics/)
+* ![IBM Developer Node.js](https://developer.ibm.com/technologies/node-js/)
+* ![IBM Developer Containers](https://developer.ibm.com/technologies/containers/)
+* ![IBM Developer Containers Java](https://developer.ibm.com/technologies/java/)
+* ![IBM Developer Containers Blockchain](https://developer.ibm.com/technologies/blockchain/)
 
