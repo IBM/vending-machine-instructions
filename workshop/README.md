@@ -8,7 +8,7 @@ We use IBM Watson Assistant and an external API to get the access code for the v
 
 ![](../images/vendingmachine-architecture.png)
 
-> Find out more Watson Assistant and Chat Bot on [IBM Developer](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/create-your-first-assistant-powered-chatbot/).
+> Find out more about IBM Watson Assistant and chat-bots on [IBM Developer](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/create-your-first-assistant-powered-chatbot/).
 
 ### Estimated time and level
 
