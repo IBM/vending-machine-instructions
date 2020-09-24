@@ -4,7 +4,7 @@
 
 ### Step 2: Open catalog
 
-* Use following link [https://cloud.ibm.com/catalog/services/watson-assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+Use following link [https://cloud.ibm.com/catalog/services/watson-assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 
 ![](../../images/create-assistant-01.png)
 
@@ -32,9 +32,10 @@
 
 Ensure Enable `preview link` is selected.
 
-
+![](../../images/create-assistant-07.png)
 
 ### Step 9: Press `Create assistant`
 
+![](../../images/create-assistant-08.png)
 
 ---
