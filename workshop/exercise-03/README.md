@@ -18,4 +18,4 @@
 
 ---
 
-> Find out more Watson Assistant and Chat Bot on [IBM Developer](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/create-your-first-assistant-powered-chatbot/).
+> Find out more about **IBM Watson Assistant** and **chatbot** on [IBM Developer](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/create-your-first-assistant-powered-chatbot/).
