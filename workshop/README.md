@@ -1,6 +1,6 @@
 ## Instructions: Get your code for the vending machine!
 
-This instruction does demonstrate how setup and use IBM Watson Assistant to get your access code for the vending machine.
+This instruction does demonstrate how to setup and use the **IBM Watson Assistant Service** on **IBM Cloud** to get your access code for the vending machine.
 
 ### Architecture
 
