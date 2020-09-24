@@ -2,9 +2,9 @@
 
 ### Step 1: Click `Preview link`
 
+![](../../images/run-assistant-01.png)
 
-
-### Step 2: Open `Try it out and share the link``
+### Step 2: Open `Try it out and share the link`
 
 ![](../../images/run-assistant-02.png)
 
