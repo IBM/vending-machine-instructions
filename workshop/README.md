@@ -6,7 +6,7 @@ This instruction does demonstrate how setup and use IBM Watson Assistant to get 
 
 We use IBM Watson Assistant and an external API to get the access code for the vending machine, as shown in the image below.
 
-![](../../images/vendingmachine-architecture.png)
+![](../images/vendingmachine-architecture.png)
 
 ### Estimated time and level
 
@@ -35,7 +35,7 @@ These are the sections of the instructions, go through all of them in sequence, 
 
 These insturctions have been tested on the following platforms:
 
-* **IBM Watson Assistant Service Lite**
+* **IBM Watson Assistant Service (Lite)** on IBM Cloud
 
 ### Credits
 
