@@ -2,4 +2,4 @@
 
 To access the instructions click on the link below:
 
-<https://ibm.github.io/vending-machine-instructions/)>
+<https://ibm.github.io/vending-machine-instructions>
