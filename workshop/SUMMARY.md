@@ -24,4 +24,3 @@
 * [IBM Developer Containers](https://developer.ibm.com/technologies/containers/)
 * [IBM Developer Containers Java](https://developer.ibm.com/technologies/java/)
 * [IBM Developer Containers Blockchain](https://developer.ibm.com/technologies/blockchain/)
-
