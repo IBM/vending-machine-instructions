@@ -22,7 +22,7 @@ We use IBM Watson Assistant and an external API to get the access code for the v
 
 After you complete this instruction, you'll understand the following topics:
 
-* Create an instance of IBM Watson Assistant on IBM Cloud. 
+* Create an instance of [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) on IBM Cloud. 
 * Add a customized dialog skill to IBM Watson Assistant
 * Use a chat-bot to get your access-code for the vending machine.
 
