@@ -2,11 +2,11 @@
 
 ### Step 1: Open a browser window and navigate to the IBM Cloud [Registration page](https://ibm.biz/Bdqu4M).
 
-![](../../images/registration.png)
+![](../images/registration.png)
 
 ### Step 2: Fill in the registration form and follow the link in the **confirmation email** to confirm your account once it arrives.
 
-![Validation email](../../images/email.png)
+![Validation email](../images/email.png)
 
 ### Step 3: [Login into IBM Cloud](https://ibm.biz/Bdqu4M) using your account credentials.
 

@@ -2,15 +2,15 @@
 
 ### Step 1: Click `Preview link`
 
-![](../../images/run-assistant-01.png)
+![](../images/run-assistant-01.png)
 
 ### Step 2: Open `Try it out and share the link`
 
-![](../../images/run-assistant-02.png)
+![](../images/run-assistant-02.png)
 
 ### Step 3: Ask for the vending machine code
 
-![](../../images/run-assistant-03.png)
+![](../images/run-assistant-03.png)
 
 ---
 
