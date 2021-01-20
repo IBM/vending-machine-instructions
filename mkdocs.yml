@@ -1,0 +1,107 @@
+# Project information
+site_name: Vending Machine Instructions
+site_url: https://ibm.github.io/vending-machine-instructions
+site_author: IBM Developer
+
+# Repository
+repo_name: vending-machine-instructions
+repo_url: https://github.com/ibm/vending-machine-instructions
+edit_uri: edit/master/workshop
+docs_dir: workshop
+
+# Navigation
+nav:
+  - Welcome:
+    - About the workshop: README.md
+  - Workshop:
+    - Overview: pre-work/README.md
+    - Register for IBM Cloud: pre-work/1-REGISTER.md
+    - Step 1. Create a Watson Assistant Service instance on IBM Cloud: exercise-01/README.md
+    - Step 2. Import a dialog-skill: exercise-02/README.md
+    - Step 3. Run the chatbot and get your code for the vending-machine: exercise-03/README.md
+  - References:
+    - IBM Developer: https://developer.ibm.com
+    - IBM Developer AI: https://developer.ibm.com/technologies/artificial-intelligence
+    - IBM Developer Analytics: https://developer.ibm.com/technologies/analytics
+    - IBM Developer Node.js: https://developer.ibm.com/technologies/node-js
+    - IBM Developer Containers: https://developer.ibm.com/technologies/containers
+    - IBM Developer Containers Java: https://developer.ibm.com/technologies/java
+    - IBM Developer Containers Blockchain: https://developer.ibm.com/technologies/blockchain
+
+
+## DO NOT CHANGE BELOW THIS LINE
+
+# Copyright
+copyright: Copyright &copy; 2020 IBM Developer
+
+# Theme
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  icon:
+    logo: material/library
+  features:
+    # - navigation.tabs
+    - navigation.instant
+    - navigation.expand
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
+
+# Plugins
+plugins:
+  - search
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ibm
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ibmdeveloper
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/ibm/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/user/developerworks
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/ibmdeveloper
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
