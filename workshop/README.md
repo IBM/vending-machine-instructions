@@ -1,14 +1,14 @@
-## Instructions: Get your code for the vending machine!
+# Instructions: Get your code for the vending machine
 
 This instruction does demonstrate how to setup and use the **IBM Watson Assistant Service** on **IBM Cloud** to get your access code for the vending machine.
 
-![](images/vendingmachine-image.png)
+![vendingmachine](images/vendingmachine-image.png)
 
-### Architecture
+## Architecture
 
 We use IBM Watson Assistant and an external API to get the access code for the vending machine, as shown in the image below.
 
-![](images/vendingmachine-architecture.png)
+![architecture](images/vendingmachine-architecture.png)
 
 > Find out more about IBM Watson Assistant and chat-bots on [IBM Developer](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/create-your-first-assistant-powered-chatbot/).
 
@@ -22,7 +22,7 @@ We use IBM Watson Assistant and an external API to get the access code for the v
 
 After you complete this instruction, you'll understand the following topics:
 
-* Create an instance of [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) on IBM Cloud. 
+* Create an instance of IBM Watson Assistant on IBM Cloud.
 * Add a customized dialog skill to IBM Watson Assistant
 * Use a chat-bot to get your access-code for the vending machine.
 
@@ -30,10 +30,10 @@ After you complete this instruction, you'll understand the following topics:
 
 These are the sections of the instructions, go through all of them in sequence, start with `Pre-work` :
 
- 1. [Pre-work](pre-work/README.md) 
- 2. [Create a Watson Assistant Service instance on IBM Cloud](exercise-01/README.md) 
- 3. [Import a dialog-skill](exercise-02/README.md) 
- 4. [Run the chatbot and get your code for the vending-machine](exercise-03/README.md) 
+ 1. [Pre-work](pre-work/README.md)
+ 2. [Create a Watson Assistant Service instance on IBM Cloud](exercise-01/README.md)
+ 3. [Import a dialog-skill](exercise-02/README.md)
+ 4. [Run the chatbot and get your code for the vending-machine](exercise-03/README.md)
 
 ### Compatibility
 
@@ -45,6 +45,3 @@ These insturctions have been tested on the following platforms:
 
 * [Herwig Diessner](https://de.linkedin.com/in/herwig-diessner-24a8993)
 * [Thomas Südbröcker](https://twitter.com/tsuedbroecker)
-
-
-
