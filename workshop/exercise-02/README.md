@@ -4,7 +4,7 @@
 
 ![assistant-1](../images/dialog-skill-assistant-01.png)
 
-## Step 2: Select `Import skill` tab
+## Step 2: Select `Upload skill` tab
 
 ![assistant-2](../images/dialog-skill-assistant-02.png)
 

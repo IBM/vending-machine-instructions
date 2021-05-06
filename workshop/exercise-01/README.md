@@ -32,8 +32,6 @@ Use following link [https://cloud.ibm.com/catalog/services/watson-assistant](htt
 
 ## Step 8: Name the Assistant `Vending-Assistant`
 
-Ensure `Enable preview link` is selected.
-
 ![assistant-7](../images/create-assistant-07.png)
 
 ## Step 9: Press `Create assistant`
