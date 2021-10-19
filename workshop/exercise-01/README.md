@@ -12,6 +12,8 @@ Use following link [https://cloud.ibm.com/catalog/services/watson-assistant](htt
 
 ## Step 3: Change the service name to `vending-WatsonAssistant`
 
+Insert `vending-WatsonAssistant`
+
 ![assistant-2](../images/create-assistant-02.png)
 
 ## Step 4: Press `Create`

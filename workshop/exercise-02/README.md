@@ -1,6 +1,6 @@
 # Step 2 - Import a dialog-skill
 
-## Step 1: Select `Add dialog skill` (ensure you select **dialog skill**)
+## Step 1: Select `Action or Dialog` (ensure you select **add an action or dialog skill**)
 
 ![assistant-1](../images/dialog-skill-assistant-01.png)
 
