@@ -12,7 +12,11 @@ Use following link [https://cloud.ibm.com/catalog/services/watson-assistant](htt
 
 ## Step 3: Change the service name to `vending-WatsonAssistant`
 
-Insert `vending-WatsonAssistant`
+Insert:
+
+```sh
+vending-WatsonAssistant
+```
 
 ![assistant-2](../images/create-assistant-02.png)
 
@@ -33,6 +37,12 @@ Insert `vending-WatsonAssistant`
 ![assistant-6](../images/create-assistant-06.png)
 
 ## Step 8: Name the Assistant `Vending-Assistant`
+
+Insert:
+
+```sh
+Vending-Assistant
+```
 
 ![assistant-7](../images/create-assistant-07.png)
 
