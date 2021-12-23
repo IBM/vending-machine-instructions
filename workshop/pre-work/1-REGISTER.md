@@ -10,6 +10,6 @@
 
 ## Step 3: [Login into IBM Cloud](https://ibm.biz/Bdqu4M) using your account credentials
 
-By default, all new IBM Cloud accounts are set to a [lite](https://www.ibm.com/cloud/pricing). The lite account provides free access to a subset of IBM Cloud resources. Lite accounts **don't need a credit-card** to sign up and they **don't expire** after a certain period of time.
+By default, all new [IBM Cloud accounts](https://cloud.ibm.com/docs/account?topic=account-accounts) are set to a [PayAsYouGo](https://www.ibm.com/cloud/pricing).
 
 ---
